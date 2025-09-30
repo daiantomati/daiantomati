@@ -2,7 +2,7 @@
 
 #### **`Engenheiro de Software`**
 
-Opa! me chamo daian, tenho 21 anos, estou atualmente cursando engenharia de software.
+Opa! me chamo daian, tenho 21 anos, estou atualmente cursando engenharia de software, e sendo bem sincero, quero ser o melhor.
 <div>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
